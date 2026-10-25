@@ -1,6 +1,6 @@
 # Slate
 
-Slate is a distraction free writing app in a single HTML file. It is modelled on the AlphaSmart Neo2, the battery-powered keyboard with a small LCD screen that let you type and not much else. Slate keeps that idea: a plain page, eight numbered file keys and a status line.
+Slate is a distraction free writing app in a single HTML file. It is modelled on the AlphaSmart Neo2, the battery powered keyboard with a small LCD screen that let you type and not much else. Slate keeps that idea: a plain page, eight numbered file keys and a status line.
 
 Your writing stays in your browser. There is no account and no server, and nothing leaves your device unless you export a file or ask an AI model for help using your own API key.
 
