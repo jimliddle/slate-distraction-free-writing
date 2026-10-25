@@ -4,6 +4,8 @@ Slate is a distraction free writing app in a single HTML file. It is modelled on
 
 Your writing stays in your browser. There is no account and no server, and nothing leaves your device unless you export a file or ask an AI model for help using your own API key.
 
+Live at: https://jimliddle.github.io/slate-distraction-free-writing/
+
 ![Slate showing an article in the LCD theme](screenshot.png)
 
 ## Features
